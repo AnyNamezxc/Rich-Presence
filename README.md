@@ -1,2 +1,1 @@
-# Rich-Presence
-A Simple Discord RP with showing Player Name and ID
+You need to add a resource file and start in your server.cfg
